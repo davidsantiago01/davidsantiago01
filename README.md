@@ -2,7 +2,7 @@
 
 Multilingual +10y Supply Chain Specialist transitioning to Data Science. Tech Enthusiast. Knowledge Passionate. Adventure Seeker.
 
-I'm passionate about data, automation, and tech education.  
+I'm passionate about continuous learning, automation, and tech education.  
 Currently learning Python 🐍, SQL 💾, and Data Visualization 📊, ML and Deep Learning Fundamentals, Systems Design Knowledge, Mlops, LLMS and AI Engineering, Statistics and Causal Inferance, Learning to learn. 
 
 ## 🔗 Connect with me
