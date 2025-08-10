@@ -10,7 +10,7 @@ Currently learning Python 🐍, SQL 💾, and Data Visualization 📊, ML and De
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yourusername)
 
 ## ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsantiago01&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsantiago01&show_icons=true&theme=synthwave)
 
 
 
