@@ -12,7 +12,8 @@ Currently learning Python 🐍, SQL 💾, and Data Visualization 📊, ML and De
 ## ⚡ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsantiago01&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
 
