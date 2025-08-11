@@ -8,6 +8,7 @@ Currently learning Python 🐍, SQL 💾, and Data Visualization 📊, ML and De
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yourusername)
+[![Wordpress](https://dasant.org/)]
 
 ## ⚡ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsantiago01&show_icons=true&theme=radical)
