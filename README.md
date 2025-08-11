@@ -8,7 +8,10 @@ Currently learning Python 🐍, SQL 💾, and Data Visualization 📊, ML and De
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yourusername)
-[![WordPress](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg)](https://dasant.org/)
+<a href="https://dasant.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="40"/>
+</a>
+
 
 
 ## ⚡ GitHub Stats
