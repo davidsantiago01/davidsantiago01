@@ -1,14 +1,14 @@
-## Hi there 👋 David Santiago
+## Hi there 👋 My name is David Santiago
 
-Multilingual +10y Supply Chain Specialist transitioning to Data Science. Tech Enthusiast. Knowledge Passionate. Adventure Seeker.
+Multilingual +10y Supply Chain Specialist transitioning to Data Science. I'm a Tech Enthusiast. Knowledge Passionate. Adventure Seeker.
 
-I'm passionate about continuous learning, automation, and tech education.  
+I'm passionate about continuous learning, world knowledge,  AI education.
 
 Currently learning: 
-Python, SQL, and Data Visualization 
-Machine Learning and Deep Learning Fundamentals
-Systems Design Knowledge, Mlops, LLMS and AI Engineering
-Statistics, Causal Inferance, and Learning to learn. 
+- Python, SQL, and Data Visualization 
+- Machine Learning and Deep Learning Fundamentals
+- Systems Design Knowledge, Mlops, LLMS and AI Engineering
+- Statistics, Causal Inferance, and Learning to learn. 
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)  
