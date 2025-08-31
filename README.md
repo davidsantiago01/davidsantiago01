@@ -4,7 +4,11 @@ Multilingual +10y Supply Chain Specialist transitioning to Data Science. Tech En
 
 I'm passionate about continuous learning, automation, and tech education.  
 
-Currently learning Python 🐍, SQL 💾, and Data Visualization 📊, ML and Deep Learning Fundamentals, Systems Design Knowledge, Mlops, LLMS and AI Engineering, Statistics and Causal Inferance, Learning to learn. 
+Currently learning: 
+Python, SQL, and Data Visualization 
+Machine Learning and Deep Learning Fundamentals
+Systems Design Knowledge, Mlops, LLMS and AI Engineering
+Statistics, Causal Inferance, and Learning to learn. 
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)  
